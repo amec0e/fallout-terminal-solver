@@ -3,7 +3,7 @@ Fallout terminal solver for those who have trouble with the terminal hacking.
 
 **Setup:**
 
-Put `85-mfview.conf` in `/etc/lighttpd/conf-enabled/`
+Put `80-fallout.conf` in `/etc/lighttpd/conf-enabled/`
 
 Put all other files in `/var/www/html/fallout-terminal-solver`
 
